@@ -23,7 +23,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://i.icoziv.workers.dev/icons?i=react,tailwind,js,html,css,python,sqlite,mysql,sklearn,pandas,numpy,PowerBI,tableau,excel,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://i.icoziv.workers.dev/icons?i=react,tailwind,js,html,css,python,mysql,sklearn,pandas,numpy,PowerBI,tableau,excel,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 <!-- Add more: &i=... for recharts, chartjs, streamlit, etc. -->
