@@ -55,7 +55,7 @@
   <a href="https://x.com/Timi__precious" target="_blank">
     <img src="https://img.shields.io/badge/X-@Timi__precious-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://www.linkedin.com/in/precious-oladimeji" target="_blank"> <!-- Update with your real LinkedIn if available -->
+  <a href="www.linkedin.com/in/precious-oladimeji-6ba840276" target="_blank"> <!-- Update with your real LinkedIn if available -->
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:precioustimilehinoladimeji@gmail.com">
