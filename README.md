@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Precious+%F0%9F%91%8B;Iamprecious-cpu;Frontend+%26+Data+Viz+Enthusiast;React+%7C+Python+%7C+SQL+%7C+PowerBI;Building+Interactive+Data+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Precious+%F0%9F%91%8B;Iamprecious-cpu;Frontend+%26+Data+Viz+Enthusiast;React+%7C+Python+%7C+SQL+%7C+PowerBI;Building+Interactive+Data+Experiences" alt="Typing SVG" />
 </div>
 
 <br />
@@ -23,10 +23,10 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,python,sqlite,mysql,sklearn,pandas,numpy,powerbi,tableau,excel,git,github,vscode" />
+  <img src="https://i.icoziv.workers.dev/icons?i=react,tailwind,js,html,css,python,sqlite,mysql,sklearn,pandas,numpy,PowerBI,tableau,excel,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
 </p>
 
-<!-- Add more icons if you use: recharts, chartjs, streamlit, etc. -->
+<!-- Add more: &i=... for recharts, chartjs, streamlit, etc. -->
 
 <br />
 
@@ -47,17 +47,6 @@
 
 <br />
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iamprecious-cpu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Iamprecious-cpu&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamprecious-cpu&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
 <br />
 
 <h2 align="center">📫 Let's Connect</h2>
@@ -66,7 +55,7 @@
   <a href="https://x.com/Timi__precious" target="_blank">
     <img src="https://img.shields.io/badge/X-@Timi__precious-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://www.linkedin.com/in/precious-oladimeji" target="_blank">  <!-- Update with your real LinkedIn if available -->
+  <a href="https://www.linkedin.com/in/precious-oladimeji" target="_blank"> <!-- Update with your real LinkedIn if available -->
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:precioustimilehinoladimeji@gmail.com">
@@ -79,5 +68,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Waving Footer" />
+  <img src="https://media.tenor.com/OrHdCaEXEfIAAAAM/wave-hand.gif" alt="Waving Footer" height="100" />
 </div>
